@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FireBarret
-- 👀 I’m interested in Biology and Data Science
+- 👀 I’m interested in Bioinformatics and Data Science
 - 🌱 I’m currently learning 🐍Python🐍, 👨‍💻JavaScript👨‍💻 and 🦀Rust🦀
 
 <!---
