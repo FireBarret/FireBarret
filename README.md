@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FireBarret
-- 👀 I’m interested in Bioinformatics and Data Science
-- 🌱 I’m currently learning 🐍Python🐍, 👨‍💻JavaScript👨‍💻 and 🦀Rust🦀
+- 👀 I’m doing Bioinformatics Research
+- I mostly use R, Python and Rust. With some Swift for a couple side projects!
 
 <!---
 FireBarret/FireBarret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
